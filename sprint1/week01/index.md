@@ -7,7 +7,7 @@ layout: default
 ### [MFG291](../) - Week 01
 
 - Course Introduction
-    - [Syllabus](../../course_info/MFG291.Syllabus.pdf)
+    - [Syllabus](../../course_info/MFG291.Syllabus.pdf){:target="_blank"}
 - Introduction to Startup
     - NMC Introduction ([ppt](intro_to_startup.pptx))([pdf](intro_to_startup.pdf){:target="_blank"})
     - On Startup Communities ([video](https://www.youtube.com/watch?v=3vVX9TmaU18&t=3s){:target="_blank"})
