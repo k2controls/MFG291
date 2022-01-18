@@ -17,17 +17,21 @@ layout: default
     - Engineering Notebook 
         - ([video](https://www.youtube.com/watch?v=xaFqpd7lNM4){:target="_blank"})
         - but must be digital - OneNote or other?
-    - Sam Altman worksheets (worksheet_Lecture01.docx)
+    - Sam Altman worksheets [Lecture 01 Worksheet](worksheet_Lecture01.docx)
     - Other weekly and sprint deliverables
 - Panel Presentation Preparation
+    - [worksheet_startup_panel_prep.docx](worksheet_startup_panel_prep.docx)
 - Sprint 1 Plan
-    - Week 01
-    - Week 02
-    - Week 03
+    - [Schedule/Assignments](../../course_info/schedule_assignments.html)
+    - Tuesday, 1/25 - Tours and investigations
+    - What's the plan? 
     
 ---
 
-**Assignments
-- Logbook
+**Assignments**
+- Logbook (first submission next week)
 - Lecture 1: How to Start a Startup
+    - [Lecture 01 Worksheet](worksheet_Lecture01.docx)
 - Community Panel preparation
+    - Due Wednesday by noon
+    - [worksheet_startup_panel_prep.docx](worksheet_startup_panel_prep.docx)
