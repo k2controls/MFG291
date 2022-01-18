@@ -33,5 +33,5 @@ layout: default
 - Lecture 1: How to Start a Startup
     - [Lecture 01 Worksheet](worksheet_Lecture01.docx)
 - Community Panel preparation
-    - Due Wednesday by noon
+    - Due Thursday by noon
     - [worksheet_startup_panel_prep.docx](worksheet_startup_panel_prep.docx)
