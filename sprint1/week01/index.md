@@ -6,6 +6,7 @@ layout: default
 
 ### [MFG291](../) - Week 01
 
+**Session 1**
 - Course Introduction
     - [Syllabus](../../course_info/MFG291.Syllabus.pdf){:target="_blank"}
 - Introduction to Startup
@@ -25,7 +26,25 @@ layout: default
     - [Schedule/Assignments](../../course_info/schedule_assignments.html)
     - Tuesday, 1/25 - Tours and investigations
     - What's the plan? 
-    
+
+**Session 2**
+
+- Start up Panel preparation
+- 3:30 - 4:30 Startup Panel
+- Class wrap up
+    - Next Tuesday 
+        - meet at class room (West Hall 103/104)
+        - be prepared to walk outside - NMC Campus
+        - bring a notebook!
+        - debrief at classroom
+    - Thursday
+        - same as Tuesday but downtown?
+    - Tuesday, Feb 1
+        - TCNewTech is virtual - 5:00 - 6:00 PM
+        - Please register at [here](https://www.eventbrite.com/e/tcnewtech-pitch-event-february-1-2022-tickets-237658301377){:target="_blank"}
+        - Can everyone attend? Wondering if we can make this the class session for the day and meet in zoom right after to review and discuss.
+        - More information on TCNewTech is at [tcnewtech.org](https://tcnewtech.org/){:target="_blank"} 
+
 ---
 
 **Assignments**
