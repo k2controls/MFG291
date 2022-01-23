@@ -6,10 +6,10 @@ layout: default
 
 ### [MFG291](../) - Week 02
 
-##Tours, Investigations, Ideation
+## Tours, Investigations, Ideation
 
 **Session 1**
-- In seach of a idea, problem, or opportunity
+- In seach of an idea, problem, or opportunity
 - Campus tour
     - Meet in classroom - WH 103/104
     - We'll walk around the campus looking for ideas
@@ -19,7 +19,7 @@ layout: default
 - See assignment for the week - logbook and Lecture 2
 
 **Session 2**
-- May be adjust based on success of session 1
+- May be adjusted based on success of session 1
 - Tour downtown using same process
 - Meeting place - TBD
 
