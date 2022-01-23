@@ -23,6 +23,10 @@ layout: default
 - Tour downtown using same process
 - Meeting place - TBD
 
+**Note: Next Tuesday's class session is TCNewTech.**
+-  RSVP [here](https://tcnewtech.org/) Membership is not required
+-  Veiw on this [TCNewTech YouTube Channel](https://www.youtube.com/channel/UCfHSYBsdoY9MmGJMgbITQlg/videos?)
+- Access class Zoom link after for reflection and discussion.
 
 ---
 
