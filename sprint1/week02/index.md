@@ -10,6 +10,7 @@ layout: default
 
 **Session 1**
 - In seach of an idea, problem, or opportunity
+- [NMC Startup Week 2 - ideation](NMCStartupWeek2.pptx)
 - Campus tour
     - Meet in classroom - WH 103/104
     - We'll walk around the campus looking for ideas
