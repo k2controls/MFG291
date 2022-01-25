@@ -10,6 +10,7 @@ Welcome to Startup Seminar (MFG291). This is a new NMC courses designated as a "
 
 - [Course Syllabus](MFG291.Syllabus.pdf){:target="_blank"}
 - [Schedule/Assignments](schedule_assignments.html)
+- [Class List](MFG291ClassList.xlsx)
 
 **Schedule/Milestones**
 - Tuesday, Jan. 18: Sprint 1- Problem/Opportunity
