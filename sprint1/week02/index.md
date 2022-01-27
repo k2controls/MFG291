@@ -20,9 +20,13 @@ layout: default
 - See assignment for the week - logbook and Lecture 2
 
 **Session 2**
-- May be adjusted based on success of session 1
-- Tour downtown using same process
-- Meeting place - TBD
+- In-Place: West Hall 104/105
+- The Pitch 
+    - Habit 2: Begin With the End in Mind - Stephen Covey
+    - [The Only 10 Slides You Need in Your Pitch - Guy Kawasaki](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/){:target="_blank"} 
+    - Pitch Rating Form ([.xlsx](../../resources/pitch_eval_form_10slides.xlxs))([.pdf](../../resources/pitch_eval_form_10slides.pdf))
+
+
 
 **Note: Next Tuesday's class session is TCNewTech.**
 -  RSVP [here](https://tcnewtech.org/) Membership is not required
