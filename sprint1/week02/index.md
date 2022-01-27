@@ -24,7 +24,7 @@ layout: default
 - The Pitch 
     - Habit 2: Begin With the End in Mind - Stephen Covey
     - [The Only 10 Slides You Need in Your Pitch - Guy Kawasaki](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/){:target="_blank"} 
-    - Pitch Rating Form ([.xlsx](../../resources/pitch_eval_form_10slides.xlxs))([.pdf](../../resources/pitch_eval_form_10slides.pdf)){:target="_blank"} 
+    - Pitch Rating Form ([.xlsx](../../resources/pitch_eval_form_10slides.xlsx))([.pdf](../../resources/pitch_eval_form_10slides.pdf){:target="_blank"}) 
     - Shark Tank - [season 1, episode 1](https://www.hulu.com/watch/e8431928-92fd-4ed2-91fe-43ca4245216f){:target="_blank"} 
     - Shark Tank - [Paint Cups](https://youtu.be/B0mfuIbkxFUE){:target="_blank"} 
     - Shark Tank - [Measuring Shovel](https://www.youtube.com/watch?v=XNaQCOsoHlc){:target="_blank"} 
