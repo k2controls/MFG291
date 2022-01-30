@@ -31,7 +31,7 @@ layout: default
     - View [Lean Canvas video](https://youtu.be/pvIN9STpzCQ){:target="_blank"} and research other online resource for assistance with completing your canvas.
     - Use Lean Canvas template ([online](https://www.leadcanvas.app/start){:target="_blank"}) or ([.docx](../../resources/lean-canvas.docx)) to create the three required canvases
 - Lab Time
-    - Review Lean Canvas Resources and complete initial draft for your selected project
+    - Review Lean Canvas resources and complete initial draft for your selected project.
     - Class reconvenes at 4:45
     - Zoom break-out with partner
         - review, revise, practice
