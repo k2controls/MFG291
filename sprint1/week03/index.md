@@ -13,7 +13,7 @@ layout: default
 - Class time adjusted to 6:00 - 8:00 PM due to TCNewTech
 - View on this [TCNewTech YouTube Channel](https://www.youtube.com/channel/UCfHSYBsdoY9MmGJMgbITQlg/videos?){:target="_blank"}
 - Check course Announcements on main Moodle page if you have issues locating a link to view.
-- There are four pitch presentation along with information items. Use the Pitch Rating Form provided last week to evaluate each of the four pitches.
+- There are four pitch presentation along with informational items. Use the Pitch Rating Form provided last week to evaluate each of the four pitches.
 - Vote for the best pitch by texting. Directions are provded during event.
 - Make a few notes on the back of your winner in preparation for class discussion. Why was this pitch the best?
 - The class will review and discuss after. Use the Zoom link provided on the main Moodle page.
@@ -22,8 +22,8 @@ layout: default
 
 **Session 2**
 - ### Virtual: Zoom Livestream Session
-- Competition Rubric and Process
-- NMC Foundation Budget
+- [Competition Rubric and Process (draft)](../../resources/2022.StartupWeek.StudentPitch.Judges.Rubric.pdf){:target="_blank"}
+- [NMC Foundation Budget](../../resources/NMSW_kkelly_Innovation_Grant_final_budget.pdf){:target="_blank"}
 - Lean Canvas/Presentation Prep
     - Startup presentation to class using Lean Canvas next Tuesday (In-Place)
     - Create one detailed Lean Canvas for your selected idea/problem/opportunity
