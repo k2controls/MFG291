@@ -45,6 +45,7 @@ layout: default
     - one main/detailed
     - two drafts
     - all submitted as PDFs (use print to PDF)
+- Be prepared to present your Startup using canvas and aquire co-founders next Tuesday
 - Lecture 3: Counterintuitive Parts of Startups, and How to Have Ideas
     - [Lecture 03 Worksheet](worksheet_Lecture03.docx)
 
