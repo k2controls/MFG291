@@ -11,7 +11,7 @@ layout: default
 **Session 1**
 - ### Virtual: TCNewTech event followed by class Zoom session
 - Class time adjusted to 6:00 - 8:00 PM due to TCNewTech
-- View on this [TCNewTech YouTube Channel](https://www.youtube.com/channel/UCfHSYBsdoY9MmGJMgbITQlg/videos?)
+- View on this [TCNewTech YouTube Channel](https://www.youtube.com/channel/UCfHSYBsdoY9MmGJMgbITQlg/videos?){:target="_blank"}
 - Check course Announcements on main Moodle page if you have issues locating a link to view.
 - There are four pitch presentation along with information items. Use the Pitch Rating Form provided last week to evaluate each of the four pitches.
 - Vote for the best pitch by texting. Directions are provded during event.
