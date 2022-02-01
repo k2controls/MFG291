@@ -15,7 +15,7 @@ layout: default
 
 - Check course Announcements on main Moodle page if you have issues locating a link to view.
 - There are four pitch presentation along with informational items. Use the Pitch Rating Form provided last week to evaluate each of the four pitches.
-- Vote for the best pitch by texting. Directions are provded during event.
+- Vote for the best pitch by texting. Directions are provided during event.
 - Make a few notes on the back of your winner in preparation for class discussion. Why was this pitch the best?
 - The class will review and discuss after. Use the Zoom link provided on the main Moodle page.
 - Submit your four completed pitch evaluation forms to Moodle. Try to scan but if you are taking a picture with your phone, please be sure the quality if sufficient.
@@ -46,7 +46,7 @@ layout: default
     - one main/detailed
     - two drafts
     - all submitted as PDFs (use print to PDF)
-- Be prepared to present your Startup using canvas and aquire co-founders next Tuesday
+- Be prepared to present your Startup using canvas and acquire co-founders next Tuesday
 - Lecture 3: Counterintuitive Parts of Startups, and How to Have Ideas
     - [Lecture 03 Worksheet](worksheet_Lecture03.docx)
 
