@@ -27,6 +27,9 @@ layout: default
 
 **Session 2**
 - ### Virtual: Zoom Livestream Session
+- What are we doing???
+    - essentially an extended Startup Weekend
+    - see [this video](https://www.youtube.com/watch?v=GjWZTc8Ith4){:target="_blank"}
 - [Competition Rubric and Process (draft)](../../resources/2022.StartupWeek.StudentPitch.Judges.Rubric.pdf){:target="_blank"}
 - [NMC Foundation Budget](../../resources/NMSW_kkelly_Innovation_Grant_final_budget.pdf){:target="_blank"}
 - Lean Canvas/Presentation Prep
