@@ -14,7 +14,11 @@ layout: default
 - View on this [TCNewTech YouTube Channel](https://www.youtube.com/channel/UCfHSYBsdoY9MmGJMgbITQlg){:target="_blank"}
 
 - Check course Announcements on main Moodle page if you have issues locating a link to view.
-- There are four pitch presentation along with informational items. Use the Pitch Rating Form provided last week to evaluate each of the four pitches.
+- There are four pitch presentation along with informational items. Use the Pitch Rating Form provided last week to evaluate each of the four pitches. Pitches are listed below.
+    - PRESENTER: Ruth Smith, Walls Technology 
+    - PRESENTER: John Petrous, Tappy Technology
+    - PRESENTER: Elke Lipka, TSRL, Inc
+    - PRESENTER: Rhys Gogonis, Auxin Games
 - Vote for the best pitch by texting. Directions are provided during event.
 - Make a few notes on the back of your winner in preparation for class discussion. Why was this pitch the best?
 - The class will review and discuss after. Use the Zoom link provided on the main Moodle page.
