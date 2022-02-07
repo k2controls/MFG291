@@ -9,8 +9,18 @@ layout: default
 ## Project Selection, Team Creation, Product Vision and Requirements
 
 **Session 1**
+- ### UPDATED: Virtual: Zoom Livestream Session
+- Project Contraints
+- Requirement Analysis
+- User Stories
+- Kanban
+
+**Session 2**
 - ### In-Place: West Hall 103/104
-- Project Constraints - reveiw
+
+<!--
+
+- Project Constraints - review
 - Startup Presentations (randomly chosen)
     1. Shelby B
     1. Manny
@@ -26,11 +36,8 @@ layout: default
 - Founders: What do I need in a co-founder?
 - Co-founder Q & A
 - Project/Team selection finalized
-
-**Session 2**
-- ### In-Place: West Hall 103/104
-- {under construction}
     
+-->
 
 ---
 
