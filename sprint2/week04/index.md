@@ -10,7 +10,7 @@ layout: default
 
 **Session 1**
 - ### UPDATED: Virtual: Zoom Livestream Session
-- Project Contraints
+- [Project Contraints](triple-constraints.png){:target="_blank"}
 - [How to plan an MVP](https://www.youtube.com/watch?v=1hHMwLxN6EM&feature=emb_rel_end){:target="_blank"}
 - Teamwork [Lencioni - Dysfunctions of a Teams](https://youtu.be/SX7Njc85bUY){:target="_blank"}
 - [Lencioni Pyramid](LencioniPyramid.jpg)
