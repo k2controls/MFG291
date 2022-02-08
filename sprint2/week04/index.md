@@ -11,9 +11,14 @@ layout: default
 **Session 1**
 - ### UPDATED: Virtual: Zoom Livestream Session
 - Project Contraints
-- Requirement Analysis
-- User Stories
+- [How to plan an MVP](https://www.youtube.com/watch?v=1hHMwLxN6EM&feature=emb_rel_end){:target="_blank"}
+- Teamwork [Lencioni - Dysfunctions of a Teams](https://youtu.be/SX7Njc85bUY){:target="_blank"}
+- [Lencioni Pyramid](LencioniPyramid.jpg)
+- [Introduction to Scrum](http://scrumtrainingseries.com/Intro_to_Scrum/index.html){:target="_blank"}
 - Kanban
+    - Create Trello account
+- Requirements/[User Stories](user-story.png){:target="_blank"}
+
 
 **Session 2**
 - ### In-Place: West Hall 103/104
