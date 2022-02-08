@@ -18,6 +18,11 @@ layout: default
 - Kanban
     - Create Trello account
 - Requirements/[User Stories](user-story.png){:target="_blank"}
+- Sprints
+    - Sprint 2 - Product, Team, Customer, Procurement
+    - Sprint 3 - MVP Production
+    - Sprint 4 - Test, Iterate
+    - Sprint 5 - Report, Pitch
 
 
 **Session 2**
