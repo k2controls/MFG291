@@ -28,8 +28,6 @@ layout: default
 **Session 2**
 - ### In-Place: West Hall 103/104
 
-<!--
-
 - Project Constraints - review
 - Startup Presentations (randomly chosen)
     1. Shelby B
@@ -46,9 +44,8 @@ layout: default
 - Founders: What do I need in a co-founder?
 - Co-founder Q & A
 - Project/Team selection finalized
+- Next steps
     
--->
-
 ---
 
 **Assignments**
