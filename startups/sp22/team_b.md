@@ -4,7 +4,7 @@ layout: default
 
 # MFG 291 - Startup Seminar
 
-### [MFG291](../) - Startups - [Spring 2022](../) - Team B
+### [MFG291](../) - Startups - [Spring 2022](./) - Team B
 
 ## Team B: tbd
 
