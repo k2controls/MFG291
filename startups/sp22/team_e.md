@@ -9,7 +9,7 @@ layout: default
 ## Team E: tbd
 
 - Kanban
-    - [Sprint 2](){:target="_blank"}
-    - [Sprint 3](){:target="_blank"}
-    - [Sprint 4](){:target="_blank"}
-    - [Sprint 5](){:target="_blank"}
+    - [Sprint 2](https://trello.com/b/giCwpaSN){:target="_blank"}
+    - [Sprint 3](https://trello.com/b/muayIJZ0){:target="_blank"}
+    - [Sprint 4](https://trello.com/b/ZS4nZr8u){:target="_blank"}
+    - [Sprint 5](https://trello.com/b/e1LRJrHA){:target="_blank"}
