@@ -28,13 +28,6 @@ layout: default
 ---
 
 **Assignments**
-- Solutions: Sketches, Wireframes, Storyboards
-- List of requirements (Kanban board?)
-- Lecture 4: Building Product, Talking to Users, and Growing
-    - [Lecture 04 Worksheet](worksheet_Lecture04.docx)
-
-
-
 - Sprint 2 in progess
     - work submitted in Kanban tasks
 - Lecture 5: Business Strategy and Monopoly Theory (submit to W05 link)
