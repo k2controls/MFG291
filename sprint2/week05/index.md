@@ -23,8 +23,11 @@ layout: default
 
 **Session 2**
 - ### In-Place: West Hall 103/104
-
-    
+- Sprint 2 Kanban board
+- Scrum practice
+- Team effort discussion
+- Requirements/Backlog/Stories
+- Team time    
 ---
 
 **Assignments**
