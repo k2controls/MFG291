@@ -30,7 +30,9 @@ layout: default
     - Mentor: David Summers 
         - david.summers@scorevolunteer.org
         - https://www.linkedin.com/in/david-summers-27a7937/
-    - Customer champion
+    - Customer champion: Danelle Brostrom
+        - BrostromDa@tcaps.net
+        - https://www.linkedin.com/in/brostromda/
 - [Team E: tbd](team_e.html)
     - Founder: Max Streeter
     - Co-founder: John Monaghan
