@@ -30,14 +30,18 @@ layout: default
 
 **Session 2**
 - ### In-Place: West Hall 103/104
-<!--
+
 - Class presentation
+    - MVP/Scope - what will you produce for customers by the end of sprint 3?
     - Requirements/Backlog/Stories
     - Success criteria
     - Mentor update
     - Customer list
+- Parts ordering and status
+- Sprint 3 planning on Tuesday
+    - Stories and success criteria must be finalized prior to
 - Team time
--->
+
 
 ---
 
