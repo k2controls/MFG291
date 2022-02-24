@@ -34,7 +34,7 @@ layout: default
 - Class presentation
     - MVP/Scope - what will you produce for customers by the end of sprint 3?
     - Requirements/Backlog/Stories
-    - Success criteria
+    - Success criteria - in Description section of each story
     - Mentor update
     - Customer list
 - Parts ordering and status
