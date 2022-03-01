@@ -37,14 +37,14 @@ layout: default
     - Are you remote or in the classroom?
 
 **Session 2**
-- ### No Session - Teams on their own
+- ### No Session - Teams on their own (Most along with KEK at NMC Makerspace)
 - Per Tuesday's plan
 - Zoom check-ins with Keith if not in classroom. See schedule below
     - 3:30 - Team A
-    - 3:45 - Team B
+    - 3:45 - Team E
     - 4:00 - Team C
     - 4:15 - Team D
-    - 4:30 - Team E
+    - 4:30 - Team B
 
 
 ---
