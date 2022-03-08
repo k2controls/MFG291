@@ -20,7 +20,7 @@ layout: default
 
 **Session 2**
 - ### In-Place: NMC Makerspace or Virtual
-- Team reviews with KEK
+- Team reviews, troubleshooting with KEK
 
 ---
 
