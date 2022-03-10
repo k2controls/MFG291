@@ -21,6 +21,9 @@ layout: default
 **Session 2**
 - ### In-Place: NMC Makerspace or Virtual
 - Team reviews, troubleshooting with KEK
+    - Will customers love your MVP?
+    - Who are the Sprint 4 customers?
+    - How will you know?
 
 ---
 
