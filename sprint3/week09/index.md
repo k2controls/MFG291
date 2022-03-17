@@ -28,9 +28,12 @@ layout: default
             - 5 min max present with 5 min Q&A
 
 **Session 2**
-- ### In-Place: NMC Makerspace or Virtual
+- ### In-Place: Parsons-Stulen PS157A (NMC Makerspace)
+- Updates on parts, builds, etc.
+- Practice Sprint 3 Review
+    - see outline in Session 1
 - Team reviews, troubleshooting with KEK
-    - Sprint 3 Review - Questions?
+    
 
 ---
 
