@@ -35,11 +35,16 @@ layout: default
 **Session 2**
 - ### In-Place: Parsons-Stulen PS157A (NMC Makerspace)
 - Updates on parts, builds, etc.
-- Finalize Spring 4 planning
-- Sprint 4 Plan Review
-- Impediments/blockers - customer interaction?
-- Team reviews, troubleshooting with KEK
-
+    - See announcments for Request for Payment form. Be sure to CC Keith.
+- Pitch introduction and template
+- Sprint 4 Planning - finalize
+- Sprint 4 - plan review with Keith
+    - Meet with individual teams E through A
+    - Sprint 3 debt?
+    - Sprint 4 design mods
+    - Customer feed back process
+    - Sprint 4 reporting Requirements
+    
 ---
 
 Assignment
