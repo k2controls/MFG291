@@ -36,7 +36,7 @@ layout: default
 - ### In-Place: Parsons-Stulen PS157A (NMC Makerspace)
 - Updates on parts, builds, etc.
     - See announcments for Request for Payment form. Be sure to CC Keith.
-- Pitch introduction and template
+- Pitch introduction and [template](10_slide_template.pptx)
 - Sprint 4 Planning - finalize
 - Sprint 4 - plan review with Keith
     - Meet with individual teams E through A
@@ -44,7 +44,7 @@ layout: default
     - Sprint 4 design mods
     - Customer feed back process
     - Sprint 4 reporting Requirements
-    
+
 ---
 
 Assignment
