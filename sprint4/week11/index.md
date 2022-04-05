@@ -5,6 +5,8 @@ layout: default
 # MFG 291 - Startup Seminar
 
 ### [MFG291](../) - Week 11
+
+**Session 1**
 - ### In-Place: Parsons-Stulen PS157A (NMC Makerspace)
 
 - Sprint 4 Scrum
