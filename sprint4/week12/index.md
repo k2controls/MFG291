@@ -25,6 +25,8 @@ layout: default
 
 **Session 2**
 - ### In-Place: Parsons-Stulen PS157A (NMC Makerspace)
+    - Schedule review
+    - Startup Week participation?
     - Mentor/Customer updates 
     - Team time
     
