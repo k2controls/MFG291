@@ -13,9 +13,15 @@ layout: default
     - Complete scrum with your team and update your board
     - Recall that Sprint 4 was about customer feedback and iteration
     - Create a *formal* email to Keith informing him as product owner, the results of Sprint 4.
-- Sprint 4 Retrospective
+- Sprint 4 Retrospective - See Moodle link
 - Sprint 5 Planning - Pitch development
     - Create Sprint 5 board
+    - Lean Canvas! [R.png](R.png){:target="_blank"}
+        - Task for each 
+        - Move to in-progress immediately
+        - Assign to members
+        - Show revision
+        - Document mentor interaction   
     - List practice events as tasks
 - Project review with Keith
     - Teams C, D, E, A, B    
